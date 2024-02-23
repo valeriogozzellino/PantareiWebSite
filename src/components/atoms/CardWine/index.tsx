@@ -24,7 +24,7 @@ export const CardWine: React.FC<CardWineProps> = ({
       <CardMedia
         component="img"
         height="194"
-        image={ImmagineAzienda}
+        image={image ? image : ImmagineAzienda}
         alt="azienda"
       />
       <CardContent>

@@ -44,10 +44,14 @@ function HomePage() {
             />
             <div className="flex flex-col items-center rounded-lg z-10">
               <h3 className="text-3xl mb-5">Open Tasting Day</h3>
-              <p className="text-sm">Scopri il nostro listino</p>
-              <button className="mt-4 px-4 py-2 border-2 bottom-5 border-white rounded-full">
-                Scopri
-              </button>
+              <p className="text-sm">Scopri la lista delle Cantine</p>
+              <a
+                href={`${process.env.PUBLIC_URL}/Listino-Catalogo-PANTAREI.pdf`} // Aggiorna con il percorso esatto del tuo file PDF
+                download>
+                <button className="mt-4 px-4 py-2 border-4 bottom-5 border-white rounded-full">
+                  Scopri
+                </button>
+              </a>
             </div>
           </div>
         </div>

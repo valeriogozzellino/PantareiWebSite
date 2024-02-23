@@ -20,14 +20,16 @@ function Mappa() {
         </div>
       </div>
 
-      <div className="grid grid-cols-3 gap-4 p-3">
+      <div className="grid grid-cols-3 gap-4 p-3 ">
         {informazioniCantine.map((cantina, index) => (
-          <CardWine
-            key={index}
-            title={cantina.title}
-            image={cantina.image}
-            description={cantina.description}
-          />
+          <div className="flex flex-col items-center">
+            <CardWine
+              key={index}
+              title={cantina.title}
+              image={cantina.image}
+              description={cantina.description}
+            />
+          </div>
         ))}
       </div>
       <Footer />
