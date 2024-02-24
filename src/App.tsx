@@ -5,7 +5,7 @@ import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 // Importa i componenti delle pagine
 import HomePage from "./pages/HomePage";
 import Mappa from "./pages/Mappa";
-import ContactPage from "./pages/ContactPage";
+import Cantina from "./pages/Cantina";
 
 function App() {
   return (
@@ -14,9 +14,8 @@ function App() {
         <Routes>
           <Route path="/" element={<HomePage />} />
           <Route path="/mappa" element={<Mappa />} />
-          <Route path="/contatti" element={<ContactPage />} />
+          <Route path="/cantina/:id" element={<Cantina />} />
         </Routes>
-        <div></div>
       </div>
     </Router>
   );

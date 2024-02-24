@@ -1,137 +1,622 @@
 [
   {
+    "id": 1,
     "title": "Borgo Moncalvo dal 1866",
     "image": "path/to/image.jpg",
-    "description": "Descrizione di Borgo Moncalvo dal 1866"
+    "description": "Descrizione di Borgo Moncalvo dal 1866",
+    "vini": [
+      {
+        "nome": "barbera D'asti",
+        "tipo": "Rosso",
+        "annata": 2021,
+        "prezzo": "10€",
+        "gradazioneAlcolica": "14%"
+      },
+      {
+        "nome": "",
+        "tipo": "",
+        "annata": 1
+      }
+    ]
   },
   {
+    "id": 2,
     "title": "ELIO PERRONE",
     "image": "../images/loghiCantine/ElioPerrone.png",
-    "description": "Descrizione di ELIO PERRONE"
+    "description": "Descrizione di ELIO PERRONE",
+    "vini": [
+      {
+        "nome": "",
+        "tipo": "",
+        "annata": 1
+      },
+      {
+        "nome": "",
+        "tipo": "",
+        "annata": 1
+      }
+    ]
   },
   {
-    "title": "",
+    "id": 3,
+    "title": "Bussi Piero",
+    "image": "",
+    "description": "",
+    "vini": [
+      {
+        "nome": "",
+        "tipo": "",
+        "annata": 1
+      },
+      {
+        "nome": "",
+        "tipo": "",
+        "annata": 1
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Maurizio Nervi",
+    "image": "",
+    "description": "",
+    "vini": [
+      {
+        "nome": "",
+        "tipo": "",
+        "annata": 1
+      },
+      {
+        "nome": "",
+        "tipo": "",
+        "annata": 1
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "DACASTO DUILIO",
+    "image": "",
+    "description": "",
+    "vini": [
+      {
+        "nome": "",
+        "tipo": "",
+        "annata": 1
+      },
+      {
+        "nome": "",
+        "tipo": "",
+        "annata": 1
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Foglino",
     "image": "",
     "description": ""
   },
   {
-    "title": "",
+    "id": 7,
+    "title": "Avezza",
     "image": "",
-    "description": ""
+    "description": "",
+    "vini": [
+      {
+        "nome": "",
+        "tipo": "",
+        "annata": 1
+      },
+      {
+        "nome": "",
+        "tipo": "",
+        "annata": 1
+      }
+    ]
   },
   {
-    "title": "",
+    "id": 8,
+    "title": "La Masera",
     "image": "",
-    "description": ""
+    "description": "",
+    "vini": [
+      {
+        "nome": "",
+        "tipo": "",
+        "annata": 1
+      },
+      {
+        "nome": "",
+        "tipo": "",
+        "annata": 1
+      }
+    ]
   },
   {
-    "title": "",
+    "id": 9,
+    "title": "Sesta Classe",
     "image": "",
-    "description": ""
+    "description": "",
+    "vini": [
+      {
+        "nome": "",
+        "tipo": "",
+        "annata": 1
+      },
+      {
+        "nome": "",
+        "tipo": "",
+        "annata": 1
+      }
+    ]
   },
   {
-    "title": "",
+    "id": 10,
+    "title": "Marsiglia",
     "image": "",
-    "description": ""
+    "description": "",
+    "vini": [
+      {
+        "nome": "",
+        "tipo": "",
+        "annata": 1
+      },
+      {
+        "nome": "",
+        "tipo": "",
+        "annata": 1
+      }
+    ]
   },
   {
-    "title": "",
+    "id": 11,
+    "title": "Cantina del Pino",
     "image": "",
-    "description": ""
+    "description": "",
+    "vini": [
+      {
+        "nome": "",
+        "tipo": "",
+        "annata": 1
+      },
+      {
+        "nome": "",
+        "tipo": "",
+        "annata": 1
+      }
+    ]
   },
   {
-    "title": "",
+    "id": 12,
+    "title": "Domenico Clerico",
     "image": "",
-    "description": ""
+    "description": "",
+    "vini": [
+      {
+        "nome": "",
+        "tipo": "",
+        "annata": 1
+      },
+      {
+        "nome": "",
+        "tipo": "",
+        "annata": 1
+      }
+    ]
   },
   {
-    "title": "",
+    "id": 13,
+    "title": "Cascina La Massara",
     "image": "",
-    "description": ""
+    "description": "",
+    "vini": [
+      {
+        "nome": "",
+        "tipo": "",
+        "annata": 1
+      },
+      {
+        "nome": "",
+        "tipo": "",
+        "annata": 1
+      }
+    ]
   },
   {
-    "title": "",
+    "id": 14,
+    "title": "Carlo Giacosa",
     "image": "",
-    "description": ""
+    "description": "",
+    "vini": [
+      {
+        "nome": "",
+        "tipo": "",
+        "annata": 1
+      },
+      {
+        "nome": "",
+        "tipo": "",
+        "annata": 1
+      }
+    ]
   },
   {
-    "title": "",
+    "id": 15,
+    "title": "Azineda Agricola Edoardo Sobrino",
     "image": "",
-    "description": ""
+    "description": "",
+    "vini": [
+      {
+        "nome": "",
+        "tipo": "",
+        "annata": 1
+      },
+      {
+        "nome": "",
+        "tipo": "",
+        "annata": 1
+      }
+    ]
   },
   {
-    "title": "",
+    "id": 16,
+    "title": "Giacomo Grimaldi",
     "image": "",
-    "description": ""
+    "description": "",
+    "vini": [
+      {
+        "nome": "",
+        "tipo": "",
+        "annata": 1
+      },
+      {
+        "nome": "",
+        "tipo": "",
+        "annata": 1
+      }
+    ]
   },
   {
-    "title": "",
+    "id": 17,
+    "title": "Schiavenza",
     "image": "",
-    "description": ""
+    "description": "",
+    "vini": [
+      {
+        "nome": "",
+        "tipo": "",
+        "annata": 1
+      },
+      {
+        "nome": "",
+        "tipo": "",
+        "annata": 1
+      }
+    ]
   },
   {
-    "title": "",
+    "id": 18,
+    "title": "Eraldo Viberti",
     "image": "",
-    "description": ""
+    "description": "",
+    "vini": [
+      {
+        "nome": "",
+        "tipo": "",
+        "annata": 1
+      },
+      {
+        "nome": "",
+        "tipo": "",
+        "annata": 1
+      }
+    ]
   },
   {
-    "title": "",
+    "id": 19,
+    "title": "Maria Rosa TrentoDOC",
     "image": "",
-    "description": ""
+    "description": "",
+    "vini": [
+      {
+        "nome": "",
+        "tipo": "",
+        "annata": 1
+      },
+      {
+        "nome": "",
+        "tipo": "",
+        "annata": 1
+      }
+    ]
   },
   {
-    "title": "",
+    "id": 20,
+    "title": "LIVON aziende agricole",
     "image": "",
-    "description": ""
+    "description": "",
+    "vini": [
+      {
+        "nome": "",
+        "tipo": "",
+        "annata": 1
+      },
+      {
+        "nome": "",
+        "tipo": "",
+        "annata": 1
+      }
+    ]
   },
   {
-    "title": "",
+    "id": 21,
+    "title": "Manincor",
     "image": "",
-    "description": ""
+    "description": "",
+    "vini": [
+      {
+        "nome": "",
+        "tipo": "",
+        "annata": 1
+      },
+      {
+        "nome": "",
+        "tipo": "",
+        "annata": 1
+      }
+    ]
   },
   {
-    "title": "",
+    "id": 22,
+    "title": "Carlotto",
     "image": "",
-    "description": ""
+    "description": "",
+    "vini": [
+      {
+        "nome": "",
+        "tipo": "",
+        "annata": 1
+      },
+      {
+        "nome": "",
+        "tipo": "",
+        "annata": 1
+      }
+    ]
   },
   {
-    "title": "",
+    "id": 23,
+    "title": "Roccolo Grassi",
     "image": "",
-    "description": ""
+    "description": "",
+    "vini": [
+      {
+        "nome": "",
+        "tipo": "",
+        "annata": 1
+      },
+      {
+        "nome": "",
+        "tipo": "",
+        "annata": 1
+      }
+    ]
   },
   {
-    "title": "",
+    "id": 24,
+    "title": "Prapian",
     "image": "",
-    "description": ""
+    "description": "",
+    "vini": [
+      {
+        "nome": "",
+        "tipo": "",
+        "annata": 1
+      },
+      {
+        "nome": "",
+        "tipo": "",
+        "annata": 1
+      }
+    ]
   },
   {
-    "title": "",
+    "id": 25,
+    "title": "Famiglia Olivini",
     "image": "",
-    "description": ""
+    "description": "",
+    "vini": [
+      {
+        "nome": "",
+        "tipo": "",
+        "annata": 1
+      },
+      {
+        "nome": "",
+        "tipo": "",
+        "annata": 1
+      }
+    ]
   },
   {
-    "title": "",
+    "id": 26,
+    "title": "Medici Ermete",
     "image": "",
-    "description": ""
+    "description": "",
+    "vini": [
+      {
+        "nome": "",
+        "tipo": "",
+        "annata": 1
+      },
+      {
+        "nome": "",
+        "tipo": "",
+        "annata": 1
+      }
+    ]
   },
   {
-    "title": "",
+    "id": 27,
+    "title": "Fattoria le Pupille",
     "image": "",
-    "description": ""
+    "description": "",
+    "vini": [
+      {
+        "nome": "",
+        "tipo": "",
+        "annata": 1
+      },
+      {
+        "nome": "",
+        "tipo": "",
+        "annata": 1
+      }
+    ]
   },
   {
-    "title": "",
+    "id": 28,
+    "title": "Marotti Campi",
     "image": "",
-    "description": ""
+    "description": "",
+    "vini": [
+      {
+        "nome": "",
+        "tipo": "",
+        "annata": 1
+      },
+      {
+        "nome": "",
+        "tipo": "",
+        "annata": 1
+      }
+    ]
   },
   {
-    "title": "",
+    "id": 29,
+    "title": "Feudi Spada",
     "image": "",
-    "description": ""
+    "description": "",
+    "vini": [
+      {
+        "nome": "",
+        "tipo": "",
+        "annata": 1
+      },
+      {
+        "nome": "",
+        "tipo": "",
+        "annata": 1
+      }
+    ]
   },
   {
-    "title": "",
+    "id": 30,
+    "title": "PIETRACUPA",
     "image": "",
-    "description": ""
+    "description": "",
+    "vini": [
+      {
+        "nome": "",
+        "tipo": "",
+        "annata": 1
+      },
+      {
+        "nome": "",
+        "tipo": "",
+        "annata": 1
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "title": "Azienda Agricola Francesco TORNATORE",
+    "image": "",
+    "description": "",
+    "vini": [
+      {
+        "nome": "",
+        "tipo": "",
+        "annata": 1
+      },
+      {
+        "nome": "",
+        "tipo": "",
+        "annata": 1
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "title": "Tenuta delle Nereidi",
+    "image": "",
+    "description": "",
+    "vini": [
+      {
+        "nome": "",
+        "tipo": "",
+        "annata": 1
+      },
+      {
+        "nome": "",
+        "tipo": "",
+        "annata": 1
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "title": "LALLIER Champagne",
+    "image": "",
+    "description": "",
+    "vini": [
+      {
+        "nome": "",
+        "tipo": "",
+        "annata": 1
+      },
+      {
+        "nome": "",
+        "tipo": "",
+        "annata": 1
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "title": "BOCCHINO",
+    "image": "",
+    "description": "",
+    "vini": [
+      {
+        "nome": "",
+        "tipo": "",
+        "annata": 1
+      },
+      {
+        "nome": "",
+        "tipo": "",
+        "annata": 1
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "title": "ROGIN",
+    "image": "",
+    "description": "",
+    "vini": [
+      {
+        "nome": "",
+        "tipo": "",
+        "annata": 1
+      },
+      {
+        "nome": "",
+        "tipo": "",
+        "annata": 1
+      }
+    ]
   }
 ]
