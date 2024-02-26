@@ -3,7 +3,7 @@
     "id": 1,
     "title": "Borgo Moncalvo dal 1866",
     "image": "path/to/image.jpg",
-    "description": "Descrizione di Borgo Moncalvo dal 1866",
+    "description": "Borgo Moncalvo è una piccola azienda vinicola situata nel territorio delle Langhe Astigiane, una piccola porzione di territorio dalle caratteristiche uniche, fral’Alto Monferrato Alessandrino e l’Alta Langa Cuneese. Il terreno, per lo più calcareo-marnoso, coltivato con fatica, con dedizione è stato reso più lavorabile dagli uomini di un tempo grazie alla costruzione di chilometrici muraglioni in pietra di langa, che hanno permesso alla terra di sorreggersi in alcuni punti in ampi terrazzamenti. Borgo Moncalvo è un’azienda a conduzione famigliare fin dalle origini ed è diretta in vigna da Pierluigi, Graziella e i figli Andrea e Luca. Il vigneto è accuratamente seguito in ogni fase così da ottenere una materia prima di altissima qualità favorita dall’esposizione a mezzogiorno e dal vento di Marino che soffia da sud. Andrea è l’enologo dell’azienda e comunica, attraverso i vini che produce, una grande passione e uno spirito di innovazione invidiabili; dal 2016 con Luca, ingegnere, ha brevettato Vinooxygen, sistema con cui anche Borgo Moncalvo produce da alcuni anni vini a basso tenore di solfiti e con alto contenuto di aromi.",
     "vini": [
       {
         "nome": "barbera D'asti",
@@ -23,37 +23,13 @@
     "id": 2,
     "title": "ELIO PERRONE",
     "image": "../images/loghiCantine/ElioPerrone.png",
-    "description": "Descrizione di ELIO PERRONE",
-    "vini": [
-      {
-        "nome": "",
-        "tipo": "",
-        "annata": 1
-      },
-      {
-        "nome": "",
-        "tipo": "",
-        "annata": 1
-      }
-    ]
+    "description": "La realtà viticola Elio Perrone rappresenta una delle eccellenze enoiche del Basso Piemonte, eccellenza conseguita grazie alla scrupolosa cura nei dettagli che la cantina investe lungo l’intera filiera produttiva, dalla vigna fino alla cantina, e da cui è scaturito l’appellativo di \"sartoria enologica\". La famiglia Perrone è dedita alla viticoltura sin dalla fine dell’800, quando gli antenati di Stefano, figlio di Elio e attuale proprietario, coltivavano Moscato tra le colline di Castiglione Tinella, in provincia di Cuneo. Ascoltare e assecondare le piante è l’unica via perseguibile per produrre grandi vini che siano una fedele espressione del territorio, perché “condurre un vigneto è una questione di sensibilità, non di dominio”, come afferma lo stesso Stefano Perrone. Le varietà allevate dalla tenuta, distribuite su 17 ettari, comprendono Moscato Bianco, Barbera, Brachetto e Chardonnay. Le vigne sono distribuite su due zone differenti: una intorno alla sede storica e dedicata al Moscato, l’altra a Isola d’Asti, dove regna il Barbera. Ciò che ispira e guida la produzione è la volontà di non realizzare mai vini banali, sia che si tratti delle bottiglie a base dei vitigni tradizionali Barbera e Moscato, sia di quelle realizzate dalle varietà internazionali. In ogni caso si tratta di interpretazioni di grande classe e charme, le cui etichette sono create da Giuliana, moglie di Stefano."
   },
   {
     "id": 3,
     "title": "Bussi Piero",
     "image": "",
-    "description": "",
-    "vini": [
-      {
-        "nome": "",
-        "tipo": "",
-        "annata": 1
-      },
-      {
-        "nome": "",
-        "tipo": "",
-        "annata": 1
-      }
-    ]
+    "description": "In un mare di splendide colline vitate, tra Langhe & Monferrato, nel cuore del territorio patrimonio dell'UNESCO, sorge l'Azienda Vitivinicola Bussi Piero, viticoltori da 4 Generazioni, costituita da 12 Ettari di Vigneti. L’azienda ed i vigneti sono situati a Calosso, in località Castagna, ultimo bastione del Monferrato Astigiano che si affaccia sulle Langhe, distanti poche centinaia di metri in linea d'aria. Subito dopo la fine della prima guerra mondiale, il nonno Agostino, classe 1900, abbandona l'usanza di suo padre Nicola di vendere la totalità delle uve ai negozianti cominciando a vinificare una piccola parte di uve Barbera. L'azienda a quell'epoca era costituita da circa 1,5 ettari di vigneto e quando negli anni '60 vi subentrò Germano Bussi, il numero salì a quattro. Fu nel '68 che avvenne la svolta, con Germano che cominciò a vinificare l’uva moscato, procedimento molto impegnativo e faticoso considerando le attrezzature di quell'epoca. I risultati non si fecero attendere e crebbe la volontà di acquistare altri appezzamenti vitati, puntando principalmente sulle varietà Moscato & Barbera. Piero Bussi, terza generazione, si è inserito gradualmente nell’azienda agricola, condotta attualmente insieme al figlio Federico, titolare dal 2022, che oggi punta sulla qualità del prodotto, prima in vigna e poi in cantina. Vini identitari, specchio del nostro territorio, nel rispetto della natura, che raggiungono attualmente, orgogliosamente, una 15 nazioni in 4 diversi continenti."
   },
   {
     "id": 4,
@@ -77,31 +53,19 @@
     "id": 5,
     "title": "DACASTO DUILIO",
     "image": "",
-    "description": "",
-    "vini": [
-      {
-        "nome": "",
-        "tipo": "",
-        "annata": 1
-      },
-      {
-        "nome": "",
-        "tipo": "",
-        "annata": 1
-      }
-    ]
+    "description": "L’azienda vitivinicola Dacasto Duilio si trova ad Agliano Terme, in Piemonte, nel cuore di uno dei terroir più votati alla Barbera d’Asti. Vignaioli da 5 generazioni, I loro 8 ettari sono situati in parte in Frazione Vianoce ed in parte in Frazione Salere, entrambe nel comune di Agliano Terme. Duilio si occupa dei vigneti, il vero cuore pulsante della nostra azienda, con il prezioso aiuto della moglie Gabriella e del fratello Felice; Claudio, il figlio di Duilio e Gabriella, terminati gli studi in Viticoltura ed Enologia, fa del suo meglio in cantina per vinificare e condurre i vini verso la giusta direzione nella maniera più semplice e naturale possibile, e poi di far conoscere i propri vini in Italia e nel mondo. I vigneti sono impiantati prevalentemente a Barbera, con piccole percentuali di Chardonnay, Cabernet Sauvignon e Arneis. Esclusivamente da questi vigneti nascono i loro vini, prodotti con attenzione, genuinità, passione e costante ricerca di una sempre maggiore qualità, fedeli al motto che prima di tutto un grande vino si fa solo ed esclusivamente con una grande uva."
   },
   {
     "id": 6,
     "title": "Foglino",
     "image": "",
-    "description": ""
+    "description": "In un mare di splendide colline vitate, tra Langhe & Monferrato, nel cuore del territorio patrimonio dell'UNESCO, sorge l'Azienda Vitivinicola Bussi Piero, viticoltori da 4 Generazioni, costituita da 12 Ettari di Vigneti. L’azienda ed i vigneti sono situati a Calosso, in località Castagna, ultimo bastione del Monferrato Astigiano che si affaccia sulle Langhe, distanti poche centinaia di metri in linea d'aria. Subito dopo la fine della prima guerra mondiale, il nonno Agostino, classe 1900, abbandona l'usanza di suo padre Nicola di vendere la totalità delle uve ai negozianti cominciando a vinificare una piccola parte di uve Barbera. L'azienda a quell'epoca era costituita da circa 1,5 ettari di vigneto e quando negli anni '60 vi subentrò Germano Bussi, il numero salì a quattro. Fu nel '68 che avvenne la svolta, con Germano che cominciò a vinificare l’uva moscato, procedimento molto impegnativo e faticoso considerando le attrezzature di quell'epoca. I risultati non si fecero attendere e crebbe la volontà di acquistare altri appezzamenti vitati, puntando principalmente sulle varietà Moscato & Barbera. Piero Bussi, terza generazione, si è inserito gradualmente nell’azienda agricola, condotta attualmente insieme al figlio Federico, titolare dal 2022, che oggi punta sulla qualità del prodotto, prima in vigna e poi in cantina. Vini identitari, specchio del nostro territorio, nel rispetto della natura, che raggiungono attualmente, orgogliosamente, una 15 nazioni in 4 diversi continenti."
   },
   {
     "id": 7,
     "title": "Avezza",
     "image": "",
-    "description": "",
+    "description": "L’Azienda Avezza nasce nel 1956 quando Natale Avezza, detto Talein, acquista la cascina dopo lunghi anni passati a fare il mezzadro in diverse aziende dell'Astigiano. Natale viene subito affiancato dal proprio figlio Aldo nella gestione dei due ettari di vigneti che circondano la cascina. La struttura aziendale non varia molto se non che nel 1987 subentra Paolo Avezza, figlio di Aldo, e ne assume la conduzione. Dal 1956 la famiglia Avezza si prende cura dei propri vigneti, tramandando di padre in figlio la passione per la vite e il vino. L'azienda è sita sulle colline di Canelli e si trasforma nel 2001 quando Paolo decide di iniziare a produrre vino dalle sue uve, prima di allora conferite ad altre aziende vinicole. Nel 2019 viene acquisita dalla famiglia Lyhus. Inizia così la collaborazione tra la famiglia Avezza, che sta ancora gestendo la vigna e la cantina, e Lisette insieme ai suoi genitori Vidar e Helle. L'azienda dispone di vigneti per un totale di 10 ettari e le varietà sono allevate in contro spalliera con metodo Guyot con interventi di potatura a verde e diradamenti atti a migliorare la qualità delle uve. In vigna vengono inoltre rispettate le più recenti direttive comunitarie atte a ridurre l'uso dei fitofarmaci e concimi per un minor impatto ambientale.",
     "vini": [
       {
         "nome": "",
@@ -119,19 +83,7 @@
     "id": 8,
     "title": "La Masera",
     "image": "",
-    "description": "",
-    "vini": [
-      {
-        "nome": "",
-        "tipo": "",
-        "annata": 1
-      },
-      {
-        "nome": "",
-        "tipo": "",
-        "annata": 1
-      }
-    ]
+    "description": "“La Masera” nasce nel 2005 da un gruppo di amici che avevano il desiderio di far rivivere la produzione dell’Erbaluce Passito, che si narra nato proprio dalle mani sapienti dei contadini di queste terre. La scelta del nome è significativa di uno dei valori che maggiormente ci caratterizzano: il forte legame con il territorio e la sua autenticità. Infatti, “masere” è l’appellativo locale che si usa per indicare i grossi muri di pietra che demarcano i campi, esattamente come quello che sostiene nel suo terrazzamento il primo terreno acquistato per avviare la produzione di Erbaluce. La Masera conta una superficie vitata di circa 5,5 ettari, situati nei comuni di Settimo Rottaro e Piverone, tra le colline dell’Anfiteatro Morenico di Ivrea, nell’area del Nord del Piemonte denominata Canavese.La filosofia aziendale è di produrre vino di qualità, autentico e leale, coniugando il buon senso ereditato dai “nonni” con le migliorie messe a disposizione dalla scienza e tecnica dei giorni nostri, dando vita a un prodotto che nasce dall’anima, figlio di un terroir unico, attraverso un’interpretazione semplice, ma ricca di passione e rispetto del territorio."
   },
   {
     "id": 9,
@@ -153,165 +105,58 @@
   },
   {
     "id": 10,
-    "title": "Marsiglia",
+    "title": "Marsaglia",
     "image": "",
-    "description": "",
-    "vini": [
-      {
-        "nome": "",
-        "tipo": "",
-        "annata": 1
-      },
-      {
-        "nome": "",
-        "tipo": "",
-        "annata": 1
-      }
-    ]
+    "description": "A Castellinaldo, nel cuore delle colline del Roero, Marina ed Emilio Marsaglia, con l’aiuto dei figli Enrico e Monica, continuano con la stessa passione e lo stesso impegno che animò il bisnonno Secondo Marsaglia, fondatore dell’Azienda, a produrre vini di alta qualità. Attualmente l’Azienda si estende su quindici ettari di vigneto, prevalentemente esposti a mezzogiorno. La filosofia di Emilio e Marina è che la qualità del vino si ottiene nella vigna. La famiglia Marsaglia si occupa direttamente della loro conduzione in tutte le fasi della coltivazione; dalla potatura secca a quella verde, per condurre in modo equilibrato i trattamenti seguendo le tecniche della lotta guidata e integrata.  La produzione è controllata procedendo al diradamento dei grappoli quando si verifica una eccedenza di gemme. La produzione è controllata procedendo al diradamento dei grappoli quando si verifica una eccedenza di gemme. Vinifichiamo uve perfettamente sane, raccolte a mano nel momento migliore. La cantina, dotata di tutte le tecnologie moderne, rimane comunque fedele ai processi più tradizionali della vinificazione."
   },
   {
     "id": 11,
     "title": "Cantina del Pino",
     "image": "",
-    "description": "",
-    "vini": [
-      {
-        "nome": "",
-        "tipo": "",
-        "annata": 1
-      },
-      {
-        "nome": "",
-        "tipo": "",
-        "annata": 1
-      }
-    ]
+
+    "description": "Una lunga storia familiare di coltivazione dell'uva Nebbiolo unita ad un grande apprezzamento per il terreno del Barbaresco sono alla base delle qualità del vino prodotto dalla Cantina del Pino. La famiglia Vacca vive e lavora le vigne della Cantina del Pino, una delle più antiche tenute di Barbaresco, fin dagli anni '20 quando Giuseppe Vacca, acquistò la proprietà dal suo amico, leggendario agronomo e direttore della Regia Scuola Enologica di Alba, Domizio Cavazza. Dopo aver studiato enologia alla Regia Scuola Enologica di Alba, e aver trascorso cinque anni con i Produttori del Barbaresco, Renato sentì il bisogno di sperimentare le proprie idee e metodi in vigna sia dal punto di vista agricolo che enologico, ecco perché nel 1997 convinse suo padre per avviare la propria etichetta. I vigneti di famiglia sono concentrati attorno alla collina dell'Ovello. Il sito è noto per la sua combinazione di microclima più fresco e terreni unici che fondono calcare con vene sabbiose e un alto contenuto di calcio, le condizioni perfette per un Barbaresco elegante e degno di invecchiamento. L'approccio della Cantina del Pino alla vinificazione è radicato in un profondo apprezzamento per la terra manifestato in processi delicati che consentono alle particolarità del terreno di diventare tangibili nei vini che producono."
   },
   {
     "id": 12,
     "title": "Domenico Clerico",
     "image": "",
-    "description": "",
-    "vini": [
-      {
-        "nome": "",
-        "tipo": "",
-        "annata": 1
-      },
-      {
-        "nome": "",
-        "tipo": "",
-        "annata": 1
-      }
-    ]
+    "description": "Quello di Domenico Clerico è uno dei nomi più importanti quando si parla dei grandi modernisti del Barolo. Situata a Monforte d’Alba, la cantina è stata fondata nel 1976 da Domenico Clerico, il quale, forte del supporto della moglie Giuliana, decise di elevare l’attività agricola di famiglia, fino ad allora dedita al conferimento di uve alla cantina sociale e alla coltivazione di altri tipi di frutta. Negli anni seguenti i coniugi rilevarono diversi prestigiosi vigneti nella zona del Barolo, ampliando i possedimenti della tenuta. La filosofia produttiva che ha sempre contraddistinto la famiglia è basata sul concetto che la qualità nasce in vigna, per questo il lavoro tra i filari rappresenta un aspetto fondamentale per la tenuta. La tenuta Domenico Clerico si estende su 26 ettari di vigneti, distribuiti tra i comuni di Monforte d’Alba, Serralunga d’Alba e Monchiero e condotti seguendo i principi dell’agricoltura biologica. Le vinificazioni avvengono in acciaio mentre per l’invecchiamento dei Barolo si segue l’approccio modernista attraverso l’utilizzo di barrique di rovere associate anche a botti grandi. I Barolo di Domenico Clerico esprimono il carattere possente e profondo del comune di Monforte d’Alba, interpretato con abilità attraverso un taglio modernista. Moderno è anche lo stile delle etichette, custodi di vini rossi di grande caratura."
   },
   {
     "id": 13,
-    "title": "Cascina La Massara",
+    "title": "Cantina Massara",
     "image": "",
-    "description": "",
-    "vini": [
-      {
-        "nome": "",
-        "tipo": "",
-        "annata": 1
-      },
-      {
-        "nome": "",
-        "tipo": "",
-        "annata": 1
-      }
-    ]
+    "description": "Far conoscere un grande vino come il Barolo è sempre stato il sogno della famiglia Burlotto. Agli inizi del ‘900 Andrea Burlotto ha iniziato a renderlo reale con la passione per la vigna e per il Barolo che era venduto in Piemonte e nel Nord Italia. Nei primi decenni del secolo, grazie al suo instancabile lavoro, le loro radici si sono legate sempre di più al territorio di Verduno, zona vocata per la produzione del Barolo. E ben quattro figli lo hanno seguito in questa avventura: Gian Carlo, Francesco, Giacomo e Sergio. Anche con il passare degli anni i Burlotto continuano a credere in questo prezioso frutto della terra di Langa, e precisamente del Crü Massara, sito nel Comune di Verduno, in una delle migliori posizioni di tutta la zona di produzione del Barolo. Negli anni ’70 Gian Carlo Burlotto si specializza nel lavoro in cantina, mentre i fratelli seguono le vigne.  Dal 2013 Gian Carlo Burlotto ha rilevato la cantina e diverse vigne e, con il figlio Gianluca, ha proseguito la storia del marchio Cascina Massara. Due sono i fattori che caratterizzano la nostra cantina: il legame con Verduno e il modo di concepire il vino. Il legame con Verduno perché la famiglia Burlotto ha sempre vinificato in questa zona, nel cuore del paese, segno di come la loro storia sia legata al territorio. Il modo di concepire il vino perché in cantina l'unione tra i profumi e i sapori dell'uva danno vita a tutte le denominazioni proposte."
   },
   {
     "id": 14,
     "title": "Carlo Giacosa",
     "image": "",
-    "description": "",
-    "vini": [
-      {
-        "nome": "",
-        "tipo": "",
-        "annata": 1
-      },
-      {
-        "nome": "",
-        "tipo": "",
-        "annata": 1
-      }
-    ]
+    "description": "A Barbaresco, culla di vini prestigiosi, c’è la cantina Carlo Giacosa, gestita da quattro generazioni dalla famiglia Giacosa. La storia della cantina ha inizio negli anni ‘50 a Barbaresco, dove la famiglia Giacosa possiede un’azienda agricola. Il vino prodotto dai vigneti di proprietà viene utilizzato principalmente per consumo personale e in parte venduto sfuso, in damigiana. Donato Giacosa è stato socio fondatore della Cooperativa Produttori di Barbaresco, una fra le prime cantine sociali d'Italia. Ha inoltre contribuito con la sua opera di esperto innestatore alla creazione dell'attuale paesaggio di filari, diventato emblematico delle colline di Langa. Carlo, secondo generazione, ha continuato ad intrecciare le proprie radici con quelle delle viti e con la storia del paese, affinando le tecniche e l'arte della vinificazione nel segno di una qualità sempre più elevata e costante. Gli stessi principi ispirano Maria Grazia, oggi alla guida dell'azienda, affiancata dal figlio Luca. I vigneti di proprietà sono tutti nel comune di Barbaresco, in alcune delle menzioni geografiche più prestigiose. Il vitigno nebbiolo conferisce caratteri esclusivi al Barbaresco, declinato in tre versioni che esprimono appieno l'identità dei cru di provenienza: Ovello, Asili e Montefico. Sono vini importanti, che sanno resistere al tempo, portando nel calice le suggestioni di un territorio ricco di tradizione, al quale la famiglia Giacosa legati da sempre. Ciascuno di essi ha la sua storia da raccontare, dove struttura ed eleganza si rincorrono e disegnano una trama complessa, intrigante, senza dubbio indimenticabile."
   },
   {
     "id": 15,
     "title": "Azineda Agricola Edoardo Sobrino",
     "image": "",
-    "description": "",
-    "vini": [
-      {
-        "nome": "",
-        "tipo": "",
-        "annata": 1
-      },
-      {
-        "nome": "",
-        "tipo": "",
-        "annata": 1
-      }
-    ]
+    "description": "Passione, sperimentazione ed esperienza del territorio, insieme al rigore nell’applicazione dei propri principi sono alla base del successo e della crescita della cantina. Già imprenditore, Edoardo ha saputo applicare al mondo del vino le capacità apprese nel gestire l’attività di famiglia, combinandole con una profonda conoscenza della realtà vitivinicola italiana ed estera. Sobrino Vincenzo, bisnonno di Edoardo, già alla fine dell’Ottocento si specializzò a Diano d’Alba nella pratica dell’innesto. Contadino esperto, venne in contatto con il Dr. Gustavo Castellazzo, proprietario della tenuta Moncolombetto che riconobbe il suo talento e stabilì con Vincenzo un rapporto di lavoro costante. La tradizione e l’amore per la terra crebbero e si tramandarono nelle generazioni successive: Edoardo fu il primo a voler portare la propria passione ad un livello superiore, dando vita alla cantina ed esportando i propri vini in tutto il mondo. La scelta di processi naturali prosegue dalla vigna alla cantina, dove la vinificazione è tradizionale, senza aggiunta di lieviti, e prevede due rimontaggi al giorno. L’unica tecnologia concessa è quella prevista per il monitoraggio della temperatura di fermentazione."
   },
   {
     "id": 16,
     "title": "Giacomo Grimaldi",
     "image": "",
-    "description": "",
-    "vini": [
-      {
-        "nome": "",
-        "tipo": "",
-        "annata": 1
-      },
-      {
-        "nome": "",
-        "tipo": "",
-        "annata": 1
-      }
-    ]
+    "description": "La famiglia Grimaldi crede nel concetto di famiglia che li ha portati a crescere nei decenni, nel segno della qualità e di un lavoro attento in tutte le fasi della filiera, dalla vigna alla cantina. Una storia di generazioni: dal trisnonno, che nel 1930 aveva acquistato una cascina e vigneti nel comune di Barolo, ad Alberto, il figlio di Ferruccio Grimaldi, entrato in azienda nel 2020, e nipote di Giacomo Grimaldi, che aveva continuato il lavoro di viticoltore del padre Ernesto, abitando nella parte di cascina ereditata con quell’ettaro di vigneto, che è poi diventato il cru di punta dell’azienda per la produzione del Barolo Le Coste. Un cammino costruito su decisioni importanti, come quella presa da Ferruccio Grimaldi che, nel 1996, inizia a produrre vino, dando una nuova identità all’azienda. Nasce così l’etichetta attuale Giacomo Grimaldi, che racconta il territorio di Langhe e Roero, grazie all’acquisizione di nuovi vigneti dislocati nei comuni di Barolo, Novello, Vezza d’Alba e Monforte d’Alba per un totale di 18 ettari. Ferruccio e il figlio Alberto continuano a far crescere l’azienda con il lavoro, ponendo sempre l’attenzione al passato ma in prospettiva futura: l’acquisizione totale della cascina attuale proietta la Giacomo Grimaldi a nuovi investimenti per la cantina. Nel rispetto del concetto di famiglia, dal 1930."
   },
   {
     "id": 17,
     "title": "Schiavenza",
     "image": "",
-    "description": "",
-    "vini": [
-      {
-        "nome": "",
-        "tipo": "",
-        "annata": 1
-      },
-      {
-        "nome": "",
-        "tipo": "",
-        "annata": 1
-      }
-    ]
+    "description": "L'azienda agricola Schiavenza opera sul territorio di Serralunga d'Alba fin dal 1956. L'attività avviata dai fratelli Vittorio e Ugo Alessandria è ora seguita dal genero Luciano Pira, agronomo e cantiniere, coadiuvato dalla moglie Maura Alessandria  e dal cognato Walter Anselma. In passato la cascina con le terre circostanti erano di proprietà dell'Opera Pia Barolo; il lavoro veniva svolto da mezzadri detti \"schiavenza\": da qui il curioso nome dell'azienda.\nAttualmente l'azienda si estende su circa dieci ettari di vigneti sul territorio di Serralunga d'Alba.\nDa questi terreni pregiati l'azienda produce vini rossi di qualità seguendo una lavorazione artigianale. La produzione aziendale punta esclusivamente ai rossi; il Dolcetto d'Alba; il Barbera d'Alba vinificato in modo tradizionale dalle uve del giovane vigneto e una versione affinata in botte grande; il Langhe Nebbiolo; un Barolo frutto di un assemblaggio di uve Nebbiolo raccolte da vigne con diversa esposizione tutte nel comune di Serralunga d'Alba e tre selezioni dai vigneti \"Broglio\", \"Prapò\" e \"Bricco Cerretta.\""
   },
   {
     "id": 18,
     "title": "Eraldo Viberti",
     "image": "",
-    "description": "",
-    "vini": [
-      {
-        "nome": "",
-        "tipo": "",
-        "annata": 1
-      },
-      {
-        "nome": "",
-        "tipo": "",
-        "annata": 1
-      }
-    ]
+    "description": "L’azienda agricola Eraldo Viberti è un’azienda a conduzione famigliare e dal 1960 vengono coltivati i vitigni tipici delle Langhe. Proprietario dell’azienda che ne porta il nome sin dagli ultimi anni degli anni ’80 e proveniente da una famiglia di viticoltori langaroli, Eraldo Viberti fa indubbiamente parte di quel gruppo d’intraprendenti produttori che molto innovarono la vitivinicoltura di Langa. Situata a Santa Maria di La Morra, l’azienda conta su sette ettari di vigna impiantati con i tradizionali nebbiolo, dolcetto e barbera, in gran parte lavorati manualmente dallo stesso Eraldo. Risultato dell’uso esclusivo di concimi organici, della pratica dell’inerbimento spontaneo tra i filari e di lavorazioni in gran parte manuali nel sottofila al fine di eliminare i diserbanti, i suoi vini evidenziano un’espressione pura del frutto di qualità eccelsa da cui sono ricavati. Tra i filari, è massimo il rispetto di quello che è l’equilibrio di ambiente, natura ed ecosistema, e anche in cantina la filosofia seguita non è molto diversa. Dopo la vendemmia, le uve arrivano subito nei locali di vinificazione, per essere pressate e fatte fermentare in tini di acciaio, lasciando il mosto a contatto con le bucce, così da ottenere un’ottimale estrazione delle sostanze contenute."
   },
   {
     "id": 19,
@@ -618,5 +463,11 @@
         "annata": 1
       }
     ]
+  },
+  {
+    "id": 36,
+    "title": "Accornero",
+    "image": "",
+    "description": "Proprietari viticoltori, gli Accornero continuano con la stessa passione che animò il fondatore Bartolomeo, nato nella prima metà del 1800. Giulio Accornero intraprendente agricoltore comincia nel 1957 a vinificare le proprie uve in un percorso personale dando vita al potenziale viticolo del territorio di Vignale Monferrato. Proseguono sulla strada della qualità i figli Ermanno e Massimo nel produrre vini pregiati, nel rispetto della tradizione e sempre riguardosi verso il proprio passato, continuando a migliorarsi e guardando con lungimiranza al futuro. Il Monferrato dell’area casalese si estende a nord-est con le sue colline fino al Po. E comprende dei caratteristici borghi proprio come Vignale Monferrato. È definita la terra di Barbera e Grignolino. La morfologia del Monferrato è prevalentemente collinare. Sono i tipici terreni calcareomarnosi, di colore chiaro poveri di sostanze organiche e minerali ma ricchi di carbonati di calcio, limo argilla e roccia in profondità. Sono terre adatte alla coltivazione della vite che dà vini corposi, ricchi di colore, che si mantengono a lungo nel tempo."
   }
 ]

@@ -4,8 +4,9 @@ import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 
 // Importa i componenti delle pagine
 import HomePage from "./pages/HomePage";
-import Mappa from "./pages/Mappa";
+import Cantine from "./pages/Cantine";
 import Cantina from "./pages/Cantina";
+import PiantinaTastingDay from "./pages/PiantinaTastingDay";
 
 function App() {
   return (
@@ -13,8 +14,12 @@ function App() {
       <div>
         <Routes>
           <Route path="/" element={<HomePage />} />
-          <Route path="/mappa" element={<Mappa />} />
+          <Route path="/cantine" element={<Cantine />} />
           <Route path="/cantina/:id" element={<Cantina />} />
+          <Route
+            path="/piantina-tasting-day"
+            element={<PiantinaTastingDay />}
+          />
         </Routes>
       </div>
     </Router>

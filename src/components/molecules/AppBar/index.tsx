@@ -1,18 +1,20 @@
 import React from "react";
 import { useNavigate } from "react-router-dom"; // 'redirect' non è una funzione di 'react-router-dom', si dovrebbe utilizzare 'useNavigate'
 import PantareiLogo from "../../../images/PantareiLogo.png";
-function AppBar({ currentPage }: { currentPage: "mappa" | "home" }) {
+import { DrawerMenu } from "../../atoms/DrawerMenu";
+
+function AppBar({ currentPage }: { currentPage: "cantine" | "home" }) {
   const navigate = useNavigate(); // Aggiunto l'hook useNavigate per la navigazione
 
   const renderPage = (
-    pageClicked: "mappa" | "photoGallery" | "contatti" | "home"
+    pageClicked: "cantine" | "piantina-tasting-day" | "contatti" | "home"
   ) => {
     switch (pageClicked) {
-      case "mappa":
-        navigate("/mappa");
+      case "cantine":
+        navigate("/cantine");
         break;
-      case "photoGallery":
-        navigate("/photoGallery");
+      case "piantina-tasting-day":
+        navigate("/piantina-tasting-day");
         break;
       case "home":
         navigate("/");
@@ -28,33 +30,45 @@ function AppBar({ currentPage }: { currentPage: "mappa" | "home" }) {
     }
   };
   return (
-    <div className="flex justify-center content-between top-10">
-      <div className="mr-16" onClick={() => renderPage("home")}>
+    <div className="flex items-center justify-stretch content-between space-x-4 top-10">
+      <div
+        className="w-1/2 flex items-start justify-center"
+        onClick={() => renderPage("home")}>
         <img src={PantareiLogo} alt="Pantarei Logo" className="w-10 h-15" />
       </div>
-      {currentPage === "home" ? (
+      <DrawerMenu />
+      {/* {currentPage === "home" ? (
         <div
-          className="mr-16 flex items-center"
-          onClick={() => renderPage("mappa")}>
-          <p className="text-xs uppercase">Mappa delle Cantine</p>
+          className="w-2/4 flex items-center justify-center"
+          onClick={() => renderPage("cantine")}>
+          <p className="text-xs text-center uppercase md:text-base">
+            <b>Le noste Cantine</b>
+          </p>
         </div>
       ) : (
         <div
-          className="mr-16  flex items-center"
+          className=" w-2/4 flex items-center justify-center"
           onClick={() => renderPage("home")}>
-          <p className="text-xs uppercase">Home</p>
+          <p className="text-xs uppercase md:text-base">
+            <b>Home</b>
+          </p>
         </div>
       )}
       <div
-        className="mr-16  flex items-center"
-        onClick={() => renderPage("contatti")}>
-        <p className="text-xs uppercase">Photo Gallery</p>
+        className="w-2/4  flex items-center justify-center"
+        onClick={() => renderPage("piantina-tasting-day")}>
+        <p className="text-xs text-center uppercase md:text-base">
+          <b>Piantina Tasting Day</b>
+        </p>
       </div>
       <div
-        className=" flex items-center"
+        className=" w-1/4 flex items-center justify-center"
         onClick={() => renderPage("contatti")}>
-        <p className="text-xs uppercase">Contatti</p>
+        <p className="text-xs uppercase md:text-base">
+          <b>Contatti</b>
+        </p>
       </div>
+      */}
     </div>
   );
 }

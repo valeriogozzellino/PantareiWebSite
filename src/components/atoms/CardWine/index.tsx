@@ -71,7 +71,7 @@ export const CardWine: React.FC<CardWineProps> = ({
   const imageSrc = `${process.env.PUBLIC_URL}/loghiCantine/${id}.png`;
   return (
     <Card sx={{ maxWidth: 345 }}>
-      <CardMedia sx={{ height: 140 }} image={imageSrc} title="green iguana" />
+      <CardMedia sx={{ height: 170 }} image={imageSrc} title={title} />
       <CardContent>
         <Typography gutterBottom variant="h5" component="div">
           {title}

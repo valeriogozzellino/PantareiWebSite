@@ -28,6 +28,10 @@ function Footer() {
       <p className="mb-10">
         pantarei.distribuzione@pantarei.com <br />
       </p>
+      <p className="mb-10">
+        Copyright © Pantarei Distribuzione SRL 2024.
+        <br />
+      </p>
     </div>
   );
 }
