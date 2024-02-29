@@ -3,21 +3,7 @@
     "id": 1,
     "title": "Borgo Moncalvo dal 1866",
     "image": "path/to/image.jpg",
-    "description": "Borgo Moncalvo è una piccola azienda vinicola situata nel territorio delle Langhe Astigiane, una piccola porzione di territorio dalle caratteristiche uniche, fral’Alto Monferrato Alessandrino e l’Alta Langa Cuneese. Il terreno, per lo più calcareo-marnoso, coltivato con fatica, con dedizione è stato reso più lavorabile dagli uomini di un tempo grazie alla costruzione di chilometrici muraglioni in pietra di langa, che hanno permesso alla terra di sorreggersi in alcuni punti in ampi terrazzamenti. Borgo Moncalvo è un’azienda a conduzione famigliare fin dalle origini ed è diretta in vigna da Pierluigi, Graziella e i figli Andrea e Luca. Il vigneto è accuratamente seguito in ogni fase così da ottenere una materia prima di altissima qualità favorita dall’esposizione a mezzogiorno e dal vento di Marino che soffia da sud. Andrea è l’enologo dell’azienda e comunica, attraverso i vini che produce, una grande passione e uno spirito di innovazione invidiabili; dal 2016 con Luca, ingegnere, ha brevettato Vinooxygen, sistema con cui anche Borgo Moncalvo produce da alcuni anni vini a basso tenore di solfiti e con alto contenuto di aromi.",
-    "vini": [
-      {
-        "nome": "barbera D'asti",
-        "tipo": "Rosso",
-        "annata": 2021,
-        "prezzo": "10€",
-        "gradazioneAlcolica": "14%"
-      },
-      {
-        "nome": "",
-        "tipo": "",
-        "annata": 1
-      }
-    ]
+    "description": "Borgo Moncalvo è una piccola azienda vinicola situata nel territorio delle Langhe Astigiane, una piccola porzione di territorio dalle caratteristiche uniche, fral’Alto Monferrato Alessandrino e l’Alta Langa Cuneese. Il terreno, per lo più calcareo-marnoso, coltivato con fatica, con dedizione è stato reso più lavorabile dagli uomini di un tempo grazie alla costruzione di chilometrici muraglioni in pietra di langa, che hanno permesso alla terra di sorreggersi in alcuni punti in ampi terrazzamenti. Borgo Moncalvo è un’azienda a conduzione famigliare fin dalle origini ed è diretta in vigna da Pierluigi, Graziella e i figli Andrea e Luca. Il vigneto è accuratamente seguito in ogni fase così da ottenere una materia prima di altissima qualità favorita dall’esposizione a mezzogiorno e dal vento di Marino che soffia da sud. Andrea è l’enologo dell’azienda e comunica, attraverso i vini che produce, una grande passione e uno spirito di innovazione invidiabili; dal 2016 con Luca, ingegnere, ha brevettato Vinooxygen, sistema con cui anche Borgo Moncalvo produce da alcuni anni vini a basso tenore di solfiti e con alto contenuto di aromi."
   },
   {
     "id": 2,
@@ -35,19 +21,7 @@
     "id": 4,
     "title": "Maurizio Nervi",
     "image": "",
-    "description": "",
-    "vini": [
-      {
-        "nome": "",
-        "tipo": "",
-        "annata": 1
-      },
-      {
-        "nome": "",
-        "tipo": "",
-        "annata": 1
-      }
-    ]
+    "description": ""
   },
   {
     "id": 5,
@@ -59,25 +33,13 @@
     "id": 6,
     "title": "Foglino",
     "image": "",
-    "description": "In un mare di splendide colline vitate, tra Langhe & Monferrato, nel cuore del territorio patrimonio dell'UNESCO, sorge l'Azienda Vitivinicola Bussi Piero, viticoltori da 4 Generazioni, costituita da 12 Ettari di Vigneti. L’azienda ed i vigneti sono situati a Calosso, in località Castagna, ultimo bastione del Monferrato Astigiano che si affaccia sulle Langhe, distanti poche centinaia di metri in linea d'aria. Subito dopo la fine della prima guerra mondiale, il nonno Agostino, classe 1900, abbandona l'usanza di suo padre Nicola di vendere la totalità delle uve ai negozianti cominciando a vinificare una piccola parte di uve Barbera. L'azienda a quell'epoca era costituita da circa 1,5 ettari di vigneto e quando negli anni '60 vi subentrò Germano Bussi, il numero salì a quattro. Fu nel '68 che avvenne la svolta, con Germano che cominciò a vinificare l’uva moscato, procedimento molto impegnativo e faticoso considerando le attrezzature di quell'epoca. I risultati non si fecero attendere e crebbe la volontà di acquistare altri appezzamenti vitati, puntando principalmente sulle varietà Moscato & Barbera. Piero Bussi, terza generazione, si è inserito gradualmente nell’azienda agricola, condotta attualmente insieme al figlio Federico, titolare dal 2022, che oggi punta sulla qualità del prodotto, prima in vigna e poi in cantina. Vini identitari, specchio del nostro territorio, nel rispetto della natura, che raggiungono attualmente, orgogliosamente, una 15 nazioni in 4 diversi continenti."
+    "description": ""
   },
   {
     "id": 7,
     "title": "Avezza",
     "image": "",
-    "description": "L’Azienda Avezza nasce nel 1956 quando Natale Avezza, detto Talein, acquista la cascina dopo lunghi anni passati a fare il mezzadro in diverse aziende dell'Astigiano. Natale viene subito affiancato dal proprio figlio Aldo nella gestione dei due ettari di vigneti che circondano la cascina. La struttura aziendale non varia molto se non che nel 1987 subentra Paolo Avezza, figlio di Aldo, e ne assume la conduzione. Dal 1956 la famiglia Avezza si prende cura dei propri vigneti, tramandando di padre in figlio la passione per la vite e il vino. L'azienda è sita sulle colline di Canelli e si trasforma nel 2001 quando Paolo decide di iniziare a produrre vino dalle sue uve, prima di allora conferite ad altre aziende vinicole. Nel 2019 viene acquisita dalla famiglia Lyhus. Inizia così la collaborazione tra la famiglia Avezza, che sta ancora gestendo la vigna e la cantina, e Lisette insieme ai suoi genitori Vidar e Helle. L'azienda dispone di vigneti per un totale di 10 ettari e le varietà sono allevate in contro spalliera con metodo Guyot con interventi di potatura a verde e diradamenti atti a migliorare la qualità delle uve. In vigna vengono inoltre rispettate le più recenti direttive comunitarie atte a ridurre l'uso dei fitofarmaci e concimi per un minor impatto ambientale.",
-    "vini": [
-      {
-        "nome": "",
-        "tipo": "",
-        "annata": 1
-      },
-      {
-        "nome": "",
-        "tipo": "",
-        "annata": 1
-      }
-    ]
+    "description": "L’Azienda Avezza nasce nel 1956 quando Natale Avezza, detto Talein, acquista la cascina dopo lunghi anni passati a fare il mezzadro in diverse aziende dell'Astigiano. Natale viene subito affiancato dal proprio figlio Aldo nella gestione dei due ettari di vigneti che circondano la cascina. La struttura aziendale non varia molto se non che nel 1987 subentra Paolo Avezza, figlio di Aldo, e ne assume la conduzione. Dal 1956 la famiglia Avezza si prende cura dei propri vigneti, tramandando di padre in figlio la passione per la vite e il vino. L'azienda è sita sulle colline di Canelli e si trasforma nel 2001 quando Paolo decide di iniziare a produrre vino dalle sue uve, prima di allora conferite ad altre aziende vinicole. Nel 2019 viene acquisita dalla famiglia Lyhus. Inizia così la collaborazione tra la famiglia Avezza, che sta ancora gestendo la vigna e la cantina, e Lisette insieme ai suoi genitori Vidar e Helle. L'azienda dispone di vigneti per un totale di 10 ettari e le varietà sono allevate in contro spalliera con metodo Guyot con interventi di potatura a verde e diradamenti atti a migliorare la qualità delle uve. In vigna vengono inoltre rispettate le più recenti direttive comunitarie atte a ridurre l'uso dei fitofarmaci e concimi per un minor impatto ambientale."
   },
   {
     "id": 8,
@@ -89,19 +51,7 @@
     "id": 9,
     "title": "Sesta Classe",
     "image": "",
-    "description": "",
-    "vini": [
-      {
-        "nome": "",
-        "tipo": "",
-        "annata": 1
-      },
-      {
-        "nome": "",
-        "tipo": "",
-        "annata": 1
-      }
-    ]
+    "description": ""
   },
   {
     "id": 10,
@@ -120,7 +70,7 @@
     "id": 12,
     "title": "Domenico Clerico",
     "image": "",
-    "description": "Quello di Domenico Clerico è uno dei nomi più importanti quando si parla dei grandi modernisti del Barolo. Situata a Monforte d’Alba, la cantina è stata fondata nel 1976 da Domenico Clerico, il quale, forte del supporto della moglie Giuliana, decise di elevare l’attività agricola di famiglia, fino ad allora dedita al conferimento di uve alla cantina sociale e alla coltivazione di altri tipi di frutta. Negli anni seguenti i coniugi rilevarono diversi prestigiosi vigneti nella zona del Barolo, ampliando i possedimenti della tenuta. La filosofia produttiva che ha sempre contraddistinto la famiglia è basata sul concetto che la qualità nasce in vigna, per questo il lavoro tra i filari rappresenta un aspetto fondamentale per la tenuta. La tenuta Domenico Clerico si estende su 26 ettari di vigneti, distribuiti tra i comuni di Monforte d’Alba, Serralunga d’Alba e Monchiero e condotti seguendo i principi dell’agricoltura biologica. Le vinificazioni avvengono in acciaio mentre per l’invecchiamento dei Barolo si segue l’approccio modernista attraverso l’utilizzo di barrique di rovere associate anche a botti grandi. I Barolo di Domenico Clerico esprimono il carattere possente e profondo del comune di Monforte d’Alba, interpretato con abilità attraverso un taglio modernista. Moderno è anche lo stile delle etichette, custodi di vini rossi di grande caratura."
+    "description": "Quello di Domenico Clerico è uno dei nomi più importanti quando si parla dei grandi modernisti del Barolo. Situata a Monforte d’Alba, la cantina è stata fondata nel 1976 da Domenico Clerico, il quale, forte del supporto della moglie Giuliana, decise di elevare l’attività agricola di famiglia, fino ad allora dedita al conferimento di uve alla cantina sociale e alla coltivazione di altri tipi di frutta. Negli anni seguenti i coniugi rilevarono diversi prestigiosi vigneti nella zona del Barolo, ampliando i possedimenti della tenuta. La filosofia produttiva che ha sempre contraddistinto la famiglia è basata sul concetto che la qualità nasce in vigna, per questo il lavoro tra i filari rappresenta un aspetto fondamentale per la tenuta. La tenuta Domenico Clerico si estende su 26 ettari di vigneti, distribuiti tra i comuni di Monforte d’Alba, Serralunga d’Alba e Monchiero e condotti seguendo i principi dell’agricoltura biologica. Le vinificazioni avvengono in acciaio mentre per l’invecchiamento dei Barolo si segue l’approccio modernista attraverso l’utilizzo di barrique di rovere associate anche a botti grandi. I Barolo di Domenico Clerico esprimono il carattere possente e profondo del comune di Monforte d’Alba, interpretato con abilità attraverso un taglio modernista. Moderno è anche lo stile delle etichette, custodi di vini rossi di grande caratura."
   },
   {
     "id": 13,
@@ -162,307 +112,103 @@
     "id": 19,
     "title": "Maria Rosa TrentoDOC",
     "image": "",
-    "description": "",
-    "vini": [
-      {
-        "nome": "",
-        "tipo": "",
-        "annata": 1
-      },
-      {
-        "nome": "",
-        "tipo": "",
-        "annata": 1
-      }
-    ]
+    "description": ""
   },
   {
     "id": 20,
     "title": "LIVON aziende agricole",
     "image": "",
-    "description": "",
-    "vini": [
-      {
-        "nome": "",
-        "tipo": "",
-        "annata": 1
-      },
-      {
-        "nome": "",
-        "tipo": "",
-        "annata": 1
-      }
-    ]
+    "description": ""
   },
   {
     "id": 21,
     "title": "Manincor",
     "image": "",
-    "description": "",
-    "vini": [
-      {
-        "nome": "",
-        "tipo": "",
-        "annata": 1
-      },
-      {
-        "nome": "",
-        "tipo": "",
-        "annata": 1
-      }
-    ]
+    "description": ""
   },
   {
     "id": 22,
     "title": "Carlotto",
     "image": "",
-    "description": "",
-    "vini": [
-      {
-        "nome": "",
-        "tipo": "",
-        "annata": 1
-      },
-      {
-        "nome": "",
-        "tipo": "",
-        "annata": 1
-      }
-    ]
+    "description": ""
   },
   {
     "id": 23,
     "title": "Roccolo Grassi",
     "image": "",
-    "description": "",
-    "vini": [
-      {
-        "nome": "",
-        "tipo": "",
-        "annata": 1
-      },
-      {
-        "nome": "",
-        "tipo": "",
-        "annata": 1
-      }
-    ]
+    "description": ""
   },
   {
     "id": 24,
     "title": "Prapian",
     "image": "",
-    "description": "",
-    "vini": [
-      {
-        "nome": "",
-        "tipo": "",
-        "annata": 1
-      },
-      {
-        "nome": "",
-        "tipo": "",
-        "annata": 1
-      }
-    ]
+    "description": ""
   },
   {
     "id": 25,
     "title": "Famiglia Olivini",
     "image": "",
-    "description": "",
-    "vini": [
-      {
-        "nome": "",
-        "tipo": "",
-        "annata": 1
-      },
-      {
-        "nome": "",
-        "tipo": "",
-        "annata": 1
-      }
-    ]
+    "description": ""
   },
   {
     "id": 26,
     "title": "Medici Ermete",
     "image": "",
-    "description": "",
-    "vini": [
-      {
-        "nome": "",
-        "tipo": "",
-        "annata": 1
-      },
-      {
-        "nome": "",
-        "tipo": "",
-        "annata": 1
-      }
-    ]
+    "description": ""
   },
   {
     "id": 27,
     "title": "Fattoria le Pupille",
     "image": "",
-    "description": "",
-    "vini": [
-      {
-        "nome": "",
-        "tipo": "",
-        "annata": 1
-      },
-      {
-        "nome": "",
-        "tipo": "",
-        "annata": 1
-      }
-    ]
+    "description": ""
   },
   {
     "id": 28,
     "title": "Marotti Campi",
     "image": "",
-    "description": "",
-    "vini": [
-      {
-        "nome": "",
-        "tipo": "",
-        "annata": 1
-      },
-      {
-        "nome": "",
-        "tipo": "",
-        "annata": 1
-      }
-    ]
+    "description": ""
   },
   {
     "id": 29,
     "title": "Feudi Spada",
     "image": "",
-    "description": "",
-    "vini": [
-      {
-        "nome": "",
-        "tipo": "",
-        "annata": 1
-      },
-      {
-        "nome": "",
-        "tipo": "",
-        "annata": 1
-      }
-    ]
+    "description": ""
   },
   {
     "id": 30,
     "title": "PIETRACUPA",
     "image": "",
-    "description": "",
-    "vini": [
-      {
-        "nome": "",
-        "tipo": "",
-        "annata": 1
-      },
-      {
-        "nome": "",
-        "tipo": "",
-        "annata": 1
-      }
-    ]
+    "description": ""
   },
   {
     "id": 31,
     "title": "Azienda Agricola Francesco TORNATORE",
     "image": "",
-    "description": "",
-    "vini": [
-      {
-        "nome": "",
-        "tipo": "",
-        "annata": 1
-      },
-      {
-        "nome": "",
-        "tipo": "",
-        "annata": 1
-      }
-    ]
+    "description": ""
   },
   {
     "id": 32,
     "title": "Tenuta delle Nereidi",
     "image": "",
-    "description": "",
-    "vini": [
-      {
-        "nome": "",
-        "tipo": "",
-        "annata": 1
-      },
-      {
-        "nome": "",
-        "tipo": "",
-        "annata": 1
-      }
-    ]
+    "description": ""
   },
   {
     "id": 33,
     "title": "LALLIER Champagne",
     "image": "",
-    "description": "",
-    "vini": [
-      {
-        "nome": "",
-        "tipo": "",
-        "annata": 1
-      },
-      {
-        "nome": "",
-        "tipo": "",
-        "annata": 1
-      }
-    ]
+    "description": ""
   },
   {
     "id": 34,
     "title": "BOCCHINO",
     "image": "",
-    "description": "",
-    "vini": [
-      {
-        "nome": "",
-        "tipo": "",
-        "annata": 1
-      },
-      {
-        "nome": "",
-        "tipo": "",
-        "annata": 1
-      }
-    ]
+    "description": ""
   },
   {
     "id": 35,
     "title": "ROGIN",
     "image": "",
-    "description": "",
-    "vini": [
-      {
-        "nome": "",
-        "tipo": "",
-        "annata": 1
-      },
-      {
-        "nome": "",
-        "tipo": "",
-        "annata": 1
-      }
-    ]
+    "description": ""
   },
   {
     "id": 36,

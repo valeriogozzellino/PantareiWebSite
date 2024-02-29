@@ -60,7 +60,6 @@ export const CardOrizontal: React.FC<CardOrizontalProps> = ({
           <Typography level="h2" sx={{ fontSize: "1.25rem" }}>
             {title}
           </Typography>
-          {/* Opzionale: Puoi includere la descrizione o altri dettagli qui */}
         </Box>
       </Card>
     </Box>

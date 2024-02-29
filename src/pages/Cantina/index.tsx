@@ -2,22 +2,20 @@ import React from "react";
 import AppBar from "src/components/molecules/AppBar";
 import Footer from "src/components/molecules/Footer";
 import informazioniCantine from "../../datas/informazioniCantine.json";
-import dataWine from "../../datas/datasWine.json";
 import { useParams } from "react-router-dom";
-import ImmagineAzienda from "../../images/immagineAzienda.png";
-import { CardWine } from "../../components/atoms/CardWine";
+import { useResetScroll } from "../../components/atoms/useResetScroll";
 
 const Cantina = () => {
+  useResetScroll();
+
   const { id } = useParams<{ id: string }>();
   if (id === undefined) {
-    // Gestisci il caso in cui l'id non è fornito
     return <div>ID non fornito.</div>;
   }
 
   const idNumerico = parseInt(id, 10);
 
   if (isNaN(idNumerico)) {
-    // Gestisci il caso in cui l'id non è un numero valido
     return <div>ID non valido.</div>;
   }
 
@@ -29,15 +27,15 @@ const Cantina = () => {
     // Gestisci il caso in cui la cantina non è trovata
     return <div>Cantina non trovata.</div>;
   }
-  const cantinaWines = dataWine.filter(
-    (wine) => wine.id_cantina === idNumerico
-  );
-
   const imageSrc = `${process.env.PUBLIC_URL}/loghiCantine/${id}.png`;
   return (
     <div className="bg-bgDegustibus h-full text-degustibustext flex flex-col items-center">
       <div className=" top-0 left-0 right-0 px-10 pt-10">
-        <AppBar currentPage={"cantine"} />
+        <div className="w-full flex flex-row justify-center">
+          <div className="w-full md:w-1/2 ">
+            <AppBar currentPage={"none"} />
+          </div>
+        </div>
         <div>
           {cantina ? (
             <>
@@ -55,7 +53,7 @@ const Cantina = () => {
                   <p>{cantina.description}</p>
                 </div>
               </div>
-              <div>
+              {/* <div>
                 <h1 className="text-4xl font-bold mb-3">Vini</h1>
                 <div className="flex justify-center items-center mt-10 h-full ">
                   <div className="text-center">
@@ -76,7 +74,7 @@ const Cantina = () => {
                     )}
                   </div>
                 </div>
-              </div>
+              </div> */}
             </>
           ) : (
             <div>Nessuna cantina trovata</div>
