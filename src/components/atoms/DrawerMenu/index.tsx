@@ -12,8 +12,10 @@ import WineBarIcon from "@mui/icons-material/WineBar";
 import MapIcon from "@mui/icons-material/Map";
 import InventoryIcon from "@mui/icons-material/Inventory";
 import HomeIcon from "@mui/icons-material/Home";
+import { useNavigate } from "react-router-dom";
 
 export const DrawerMenu = () => {
+  const navigate = useNavigate();
   const [open, setOpen] = React.useState(false);
   const drawerItems = [
     <p className="mb-0 md:text-3xl">
@@ -39,13 +41,13 @@ export const DrawerMenu = () => {
   const renderPage = (index: number) => {
     switch (index) {
       case 0:
-        window.location.href = "/";
+        navigate("/");
         break;
       case 1:
-        window.location.href = "/cantine";
+        navigate("/cantine");
         break;
       case 2:
-        window.location.href = "/piantina-tasting-day";
+        navigate("/piantina-tasting-day");
         break;
       case 3:
         //dowload del listino completo

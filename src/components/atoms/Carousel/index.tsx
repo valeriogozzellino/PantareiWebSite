@@ -18,22 +18,27 @@ export const CarouselComponent = () => {
       id: "lallier_cantina",
       caption: "Lallier",
     },
+    {
+      src: `${process.env.PUBLIC_URL}/imagesCarousel/az-livon.png`,
+      id: "Livon",
+      caption: "Az. Agr. Livon",
+    },
   ];
 
   return (
     <Carousel interval={3000} pause="hover">
       {images.map((image) => (
-        <Carousel.Item key={image.id}>
+        <Carousel.Item style={{ height: "50%" }} key={image.id}>
           <div className="h-1/2 flex flex-col justify-center items-center">
             <img
               className="m-0 mb-0 "
               src={image.src}
               alt={`Slide ${image.caption}`}
-              style={{ width: "auto", height: "auto", objectFit: "cover" }}
+              style={{ width: "auto", height: "full", objectFit: "cover" }}
             />
           </div>
           <Carousel.Caption>
-            <h3 className="text-degustibustext">{image.caption}</h3>
+            <h3 className="text-white mt-0">{image.caption}</h3>
           </Carousel.Caption>
         </Carousel.Item>
       ))}
