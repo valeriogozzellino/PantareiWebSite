@@ -25,7 +25,7 @@ function HomePage() {
   };
   const navigate = useNavigate();
   return (
-    <div className="bg-bgDegustibus text-degustibustext min-h-screen flex   items-center px-10 pt-10 flex-col">
+    <div className="bg-bgDegustibus text-degustibustext min-h-screen flex   items-center px-6 pt-6 flex-col">
       <div className="w-full md:w-1/2 flex flex-row justify-center items-center">
         <AppBar currentPage={"home"} />
       </div>
@@ -102,6 +102,24 @@ function HomePage() {
             alt="decorativeOpenDay"
             className="bottom-52 z-0 relative"
           />
+        </div>
+        <div className="mb-20 flex flex-col items-center">
+          <h3 className="text-2xl text-center font-bold mb-3">
+            Promo Tasting Day 2024
+          </h3>
+          <h5 className="text-xl text-center md:mb-5 md:text-3xl">
+            10% DI SCONTO SE ORDINI ENTRO 24h
+          </h5>
+          <p className="text-center md:w-1/2">
+            PROMO PANTAREI TASTING DAY Su tutti gli ordini che perverranno entro
+            le ore 24 di oggi lunedì 4 marzo contenenti minimo 60 bottiglie
+            anche miste, verrà applicato un extra sconto in merce del 10%. Tale
+            promo è cumulabile con le condizioni classiche della Distribuzione e
+            lo sconto extra aggiuntivo sarà calcolato in proporzione
+            all'acquistato. Dalle scontistiche extra sono comunque esclusi i CRU
+            di ciascuna Cantina. Gli ordini vanno inviati al vs Agente di Zona
+            di riferimento.
+          </p>
         </div>
         <div className="flex flex-col items-center mt-46 mb-20">
           <h5 className="text-2xl mb-2">
