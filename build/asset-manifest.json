@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.418944a1.css",
+    "main.js": "/static/js/main.4f24ec6f.js",
+    "static/media/decoration2.png": "/static/media/decoration2.26cc47e92d1b736e16e6.png",
+    "static/media/Sponsor.png": "/static/media/Sponsor.72f5a545191ef82613b3.png",
+    "static/media/PantareiLogo.png": "/static/media/PantareiLogo.7530ccc93d8644d4fdee.png",
+    "static/media/decorationOpenDay.png": "/static/media/decorationOpenDay.815bfcfff74b92951fd2.png",
+    "index.html": "/index.html",
+    "main.418944a1.css.map": "/static/css/main.418944a1.css.map",
+    "main.4f24ec6f.js.map": "/static/js/main.4f24ec6f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.418944a1.css",
+    "static/js/main.4f24ec6f.js"
+  ]
+}
