@@ -50,7 +50,7 @@ export const CardOrizontal: React.FC<CardOrizontalProps> = ({
         }}>
         <AspectRatio
           sx={{
-            width: "100%", // Assicura che AspectRatio occupi l'intera larghezza consentita
+            width: "70%", // Assicura che AspectRatio occupi l'intera larghezza consentita
             overflow: "hidden", // Nasconde l'overflow invece di mostrarlo
           }}
           ratio="16/9" // Imposta un rapporto di aspetto comune per le immagini
@@ -62,7 +62,7 @@ export const CardOrizontal: React.FC<CardOrizontalProps> = ({
             style={{ width: "100%", height: "100%", objectFit: "cover" }} // Assicura che l'immagine copra l'area disponibile senza distorsioni
           />
         </AspectRatio>
-        <Box sx={{ p: 2 }}>
+        <Box sx={{ p: 0, width: "30%" }}>
           <Typography level="h2" sx={{ fontSize: "1.25rem" }}>
             {title}
           </Typography>
