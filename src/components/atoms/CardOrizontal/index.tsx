@@ -29,7 +29,13 @@ export const CardOrizontal: React.FC<CardOrizontalProps> = ({
         display: "flex",
         flexDirection: "column",
         alignItems: "center",
-        width: "100%",
+        width: "100%", // Larghezza su dispositivi mobili
+        "@media (min-width: 1001px)": {
+          width: "50%", // Larghezza su tablet e dispositivi più grandi
+        },
+        "@media (min-width: 1701px)": {
+          width: "25%", // Larghezza su desktop più grandi
+        },
       }}>
       <Card
         onClick={redirectCantina}

@@ -16,19 +16,19 @@ import HomeIcon from "@mui/icons-material/Home";
 export const DrawerMenu = () => {
   const [open, setOpen] = React.useState(false);
   const drawerItems = [
-    <p className="mb-0">
+    <p className="mb-0 md:text-3xl">
       <b>HomePage</b>
     </p>,
-    <p className="mb-0">
+    <p className="mb-0 md:text-3xl">
       <b>Cantine alla degustazione</b>
     </p>,
-    <p className="mb-0">
+    <p className="mb-0 md:text-3xl">
       <b>Piantina Tasting Day</b>
     </p>,
     <a
       href={`${process.env.PUBLIC_URL}/Listino-Catalogo-PANTAREI.pdf`}
       download
-      className="no-underline text-degustibustext">
+      className="no-underline text-degustibustext md:text-3xl">
       <b>Listino Completo</b>
     </a>,
   ];
@@ -57,18 +57,26 @@ export const DrawerMenu = () => {
 
   const DrawerList = (
     <Box
-      sx={{ width: 250 }}
+      sx={{
+        width: 250,
+        "@media (min-width: 1001px)": {
+          width: 600,
+        },
+      }}
       role="presentation"
       className="text-degustibustext bg-bgDegustibus h-full flex flex-col justify-start items-center"
       onClick={toggleDrawer(false)}>
       <div className="h-20 mt-5 flex flex-col justify-center">
-        <h3 className="text-center text-3xl ">Open Tasting day</h3>
+        <h3 className="text-center text-3xl md:text-5xl">Open Tasting day</h3>
       </div>
       <List>
         {drawerItems.map((item, index) => (
-          <ListItem key={index} disablePadding className="mb-3 h-9 mt-3">
+          <ListItem
+            key={index}
+            disablePadding
+            className="mb-3 h-9 md:h-32 mt-3 ">
             <ListItemButton
-              className="border-2 border-degustibustext"
+              className="border-2 border-degustibustext "
               onClick={() => renderPage(index)}>
               <ListItemIcon>
                 {index === 0 && <HomeIcon />}

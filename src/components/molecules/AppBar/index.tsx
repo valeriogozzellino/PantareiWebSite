@@ -9,12 +9,14 @@ function AppBar({ currentPage }: { currentPage: "home" | "none" }) {
   const navigate = useNavigate(); // Aggiunto l'hook useNavigate per la navigazione
   return (
     <div
-      style={{ width: "100%" }}
-      className="flex flex-row items-center justify-stretch content-between top-10">
+      style={{
+        width: "100%",
+      }}
+      className="flex flex-row items-center justify-stretch content-between top-10 md:h-24 ">
       {currentPage === "none" && (
-        <div className="flex flex-row">
-          <button onClick={() => window.history.back()}>
-            <ArrowBackIcon />
+        <div className="flex flex-row h-24 ">
+          <button className="h-24" onClick={() => navigate(-1)}>
+            <ArrowBackIcon className="h-24" />
           </button>
           <button className="ml-5" onClick={() => navigate("/")}>
             <HomeIcon />

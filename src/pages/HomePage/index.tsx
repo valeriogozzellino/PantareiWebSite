@@ -10,8 +10,10 @@ import KeyboardDoubleArrowDownIcon from "@mui/icons-material/KeyboardDoubleArrow
 import MapIcon from "@mui/icons-material/Map";
 import { useNavigate } from "react-router-dom";
 import PantareiLogo from "../../images/PantareiLogo.png";
+import { useResetScroll } from "../../components/atoms/useResetScroll";
 
 function HomePage() {
+  useResetScroll();
   const slowDown = () => {
     const currentScrollPosition =
       window.pageYOffset || document.documentElement.scrollTop;
